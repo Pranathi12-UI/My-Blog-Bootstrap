@@ -64,3 +64,25 @@ s p {
 .Contact_1 a {
     text-shadow: none;
 }
+.header_entrepreneur{
+    line-height: 2;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+    
+}
+.modal-content{
+    margin-top: 10px;
+}
+.img_modal{
+    display: inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
